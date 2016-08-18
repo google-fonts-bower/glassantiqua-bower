@@ -1,0 +1,17 @@
+{
+    "name": "glassantiqua-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Denis Masharov"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/glassantiqua-bower.git"
+    },
+    "description": "Glass Antiqua font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
